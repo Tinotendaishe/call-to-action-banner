@@ -10,3 +10,30 @@ html {
 body {
   font-family: 'Roboto Condensed', sans-serif;
 }
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Roboto Condensed', sans-serif;
+  position: absolute;
+}
+
+.img-flex {
+  position: absolute;
+}
+
+.banner {
+  width: 45em;
+  height: 500px;
+  position: relative;
+}
+
+.btn {
+  position: absolute;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
